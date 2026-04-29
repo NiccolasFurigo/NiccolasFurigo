@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Niccolas 👋
 
-<!--
-**NiccolasFurigo/NiccolasFurigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+Profissional em formação com foco em dados, backend e governança de dados.  
+Experiência com Python, SQL e construção de soluções para qualidade e organização de dados.
 
-Here are some ideas to get you started:
+## 🧠 Interesses
+- Governança de Dados
+- Data Quality
+- Backend Development
+- IA aplicada a dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- Python
+- SQL
+- FastAPI
+- Pandas
+
+## 📌 Projetos em destaque
+- Data Governance Pipeline
+- Data Management API
+- Smart Data Analyzer
+
+## 📫 Contato
+LinkedIn: https://www.linkedin.com/in/niccolas-furigo/
